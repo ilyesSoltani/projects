@@ -1,0 +1,17 @@
+{
+    "email": 
+    [
+        {
+            "expediteur" : "expediteur 1 ",
+            "destinatair" : "destinatair 1",
+            "sujet": "sujet 1",
+            "objet": "objet 1"
+        },
+        {
+            "expediteur" : "expediteur 2",
+            "destinatair" : "destinatair 2",
+            "sujet": "sujet 2",
+            "objet": "objet 2"
+        }
+    ]
+}
