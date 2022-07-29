@@ -1,21 +1,14 @@
-
-  			    	    ***************  Description  ***************
-Groupe:  06
-Le binome :
-	* Soltani Mohammed Ilyes
-	* Merouane Nadjib
-
-  		                    *********************************************
+  		                    ***************  Description  ***************
 
 * Le dossier contient :
 	- Un document texte -----------------------> README.txt
 	- Un fichier JAR --------------------------> COMPILA.jar
 	- Un fichier .compila ---------------------> FichierSource.compila
 	- Un dossier contenant notre travaille ----> COMPILA
-* Le code source est écrit en JAVA tout en implémentant SWING pour notre interface.
-* Le SWING a généré automatiquement le code des composants (buttons, panels, text area ..etc).
-* Nous avons travaillé sur netbeans avec le plugin Window Builder.
-* Tout le code est écrit dans une seule "JFrame Form" qui contient notre "main class".
+* Le code source est Ã©crit en JAVA tout en implÃ©mentant SWING pour notre interface.
+* Le SWING a gÃ©nÃ©rÃ© automatiquement le code des composants (buttons, panels, text area ..etc).
+* J'ai travaillÃ© sur netbeans avec le plugin Window Builder.
+* Tout le code est Ã©crit dans une seule "JFrame Form" qui contient notre "main class".
 * Le projet est suivi d'un fichier .compila qui contient un code en langage "COMPILA".
-* En exécutant le fichier "Run the project" ou tout simplement le JAR un fichier texte est créé dans le dossier.
-	de notre projet contenant soit l'analyse lexicale, syntaxique ou sémantique en du fichier analysé.
+* En exÃ©cutant le fichier "Run the project" ou tout simplement le JAR un fichier texte est crÃ©Ã© dans le dossier.
+	du projet contenant soit l'analyse lexicale, syntaxique ou sÃ©mantique du fichier analysÃ©.
